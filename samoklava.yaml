@@ -38,7 +38,6 @@ points:
           key:
             column_net: P20
         ring:
-          splay: -5 ky
           stagger: 0.7 ky
           spread: kx
           key:
