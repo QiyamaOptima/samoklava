@@ -33,8 +33,8 @@ points:
       key.padding: ky
       columns:
         pinky:
-          stagger: 0 ky
-          spread: kx
+          stagger: 1 ky
+          spread: 0.7 kx
           key:
             column_net: P20
         ring:
