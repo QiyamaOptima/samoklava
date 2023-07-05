@@ -38,6 +38,7 @@ points:
           key:
             column_net: P20
         ring:
+          splay: -5 ky
           stagger: 0.7 ky
           spread: kx
           key:
@@ -429,7 +430,7 @@ pcbs:
             - matrix_pinky_bottom
           shift: [0.75 kx, 0]
         params:
-          text: "samoklava v0.1\\nby soundmonster"
+          text: "samoklava v0.1\\nby qiyamaoptima"
           justify: left
       info_r:
         type: text
@@ -439,6 +440,6 @@ pcbs:
           shift: [0.75 kx, 0]
         params:
           layer: B.SilkS
-          text: "samoklava v0.1\\nby soundmonster"
+          text: "samoklava v0.1\\nby qiyamaoptima"
           justify: right mirror
 
